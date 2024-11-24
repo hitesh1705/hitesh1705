@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**hitesh1705/hitesh1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hitesh Yarlagadda** ✨ Currently pursuing a Master's in Computer Science at Northeastern University, Boston.
 
-Here are some ideas to get you started:
+- 🌍 I'm based in Boston, MA
+- 🌱 I’m currently learning AWS Cloud Tech and system design principles.
+- 👯 I’m looking to collaborate on open-source projects in web development
+- 🚀 I'm currently working on a Web Application Project [Link to be added](url)
+- 📫 How to reach me: [Email Me](hiteshyarlagadda17@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hitesh-yarlagadda-9bb799119/)
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hitesh1705&show_icons=true&locale=en&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitesh1705&)
