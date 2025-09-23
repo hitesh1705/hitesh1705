@@ -5,7 +5,6 @@ I'm **Hitesh Yarlagadda** ✨ Currently pursuing a Master's in Computer Science 
 - 🌍 I'm based in Boston, MA
 - 🌱 I’m currently learning AWS Cloud Tech and system design principles.
 - 👯 I’m looking to collaborate on open-source projects in web development
-- 🚀 I'm currently working on a Web Application Project [Link to be added](url)
 - 📫 How to reach me: [Email Me](hiteshyarlagadda17@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hitesh-yarlagadda-9bb799119/)
 - 😄 Pronouns: He/Him
 
